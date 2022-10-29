@@ -1,7 +1,7 @@
 {
   "name": "@number-theoretic/integers",
   "description": "Number theory for integers for JavaScript",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "AGPL-3.0",
   "author": "make-github-pseudonymous-again",
   "homepage": "https://number-theoretic.github.io/integers",
