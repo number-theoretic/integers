@@ -1,15 +1,21 @@
-:question: [@number-theoretic/integers](https://number-theoretic.github.io/integers)
+:zzz: [@number-theoretic/integers](https://number-theoretic.github.io/integers)
 ==
 
 Number theory for integers for JavaScript.
 See [docs](https://number-theoretic.github.io/integers/index.html).
 
-> :building_construction: Caveat emptor! This is work in progress. Code may be
-> working. Documentation may be present. Coherence may be. Maybe.
-
 > :warning: Depending on your environment, the code may require
 > `regeneratorRuntime` to be defined, for instance by importing
 > [regenerator-runtime/runtime](https://www.npmjs.com/package/regenerator-runtime).
+
+```js
+import * as double from '@arithmetic-type/double';
+import {factorizer} from '@number-theoretic/integers';
+
+const factorize = factorizer(double);
+
+[...factorize(999)]; // 3 3 3 37
+```
 
 [![License](https://img.shields.io/github/license/number-theoretic/integers.svg)](https://raw.githubusercontent.com/number-theoretic/integers/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@number-theoretic/integers.svg)](https://www.npmjs.org/package/@number-theoretic/integers)
