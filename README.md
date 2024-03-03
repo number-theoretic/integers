@@ -19,7 +19,7 @@ const factorize = factorizer(double);
 
 [![License](https://img.shields.io/github/license/number-theoretic/integers.svg)](https://raw.githubusercontent.com/number-theoretic/integers/main/LICENSE)
 [![Version](https://img.shields.io/npm/v/@number-theoretic/integers.svg)](https://www.npmjs.org/package/@number-theoretic/integers)
-[![Tests](https://img.shields.io/github/workflow/status/number-theoretic/integers/ci?event=push&label=tests)](https://github.com/number-theoretic/integers/actions/workflows/ci.yml?query=branch:main)
+[![Tests](https://img.shields.io/github/actions/workflow/status/number-theoretic/integers/ci.yml?branch=main&event=push&label=tests)](https://github.com/number-theoretic/integers/actions/workflows/ci.yml?query=branch:main)
 [![Dependencies](https://img.shields.io/librariesio/github/number-theoretic/integers.svg)](https://github.com/number-theoretic/integers/network/dependencies)
 [![GitHub issues](https://img.shields.io/github/issues/number-theoretic/integers.svg)](https://github.com/number-theoretic/integers/issues)
 [![Downloads](https://img.shields.io/npm/dm/@number-theoretic/integers.svg)](https://www.npmjs.org/package/@number-theoretic/integers)
